@@ -184,7 +184,7 @@ There are several ways to analyze data, including:
 - Segmentation (Clustering, Decision Tree)
 - Time series & Forecasting
 
-- Visualization & communication
+#### Visualization & communication
 This is the most interesting part of data analysis, visualize the data! Many people may underestimate how important this part is for making data-driven decisions.
 However, many people don't realize that many data analysts are weak in this area by not putting themselves in the stakeholder position. The essence of data analysis is how to produce insights through visualization that can be easily understood by stakeholders.
 
