@@ -150,10 +150,10 @@ The Excel Basics cheat sheet covers many of the basic formulas and operations yo
 Data analytics is not just about coding. To carry out an analysis, first of course you need to define the existing problem. This can be a pitfall or pitfall for many data analysts. This requires analytical thinking and problem solving, interpreting business requirements to guide data analysis, and starting to design your data project.
 You need proper documentation; many call it PRD (Project Requirement Document). Amazon has a "narrative" style to guide projects and set goals.
 Amazon uses a narrative consisting of:
-##### Objective
-##### Background
-##### Hypothesis
-##### Initiative Details
+- Objective
+- Background
+- Hypothesis
+- Initiative Details
 
 Including all stakeholders and processes involved. In this way, you can connect business objectives with data analysis.
 For example, if you are building a new product, you do not have the data yet. Which is why you need to conduct experiments to test the beta version of a product to different customers. You need to do random sampling, but you need to make sure the sample is representative to the customers that you are targeting. You can design the experiment to test different things, A/B  Testing by changing colors or UX of the product. The data can be qualitative such as interview results, or it can be quantitative, like the NPS (Net Promoter Score). Conducting analysis for these experiments or hypothesis testing is also something that will be learned during the weeks in the RevoU data analytics program.
